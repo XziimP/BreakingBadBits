@@ -1,4 +1,4 @@
-BreakingBadBits .. Why? why not have a laugh with your currency.
+BreakingBadBits .. Why? Because it's funny and laughter is good.
 ===================
 ![Demo](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif)
 
