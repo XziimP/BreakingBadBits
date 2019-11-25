@@ -1,6 +1,6 @@
 BreakingBadBits
 ===================
-[!image]("https://tenor.com/view/breaking-bad-heisenberg-walter-white-graphic-art-colorful-quickhoney-gif-13716667")
+![thumbnail]("https://tenor.com/view/breaking-bad-heisenberg-walter-white-graphic-art-colorful-quickhoney-gif-13716667")
 
 
 
