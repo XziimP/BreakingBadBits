@@ -1,18 +1,12 @@
-BreakingBadBits
+BreakingBadBits .. Why? why not have a laugh with your currency.
 ===================
 ![Demo](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif)
 
 
 
-License
--------
-Sugarchain Yumekawa is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
-- Copyright (c) 2009-2010 Satoshi Nakamoto
-- Copyright (c) 2009-2018 The Bitcoin Core developers
-- Copyright (c) 2013-2019 Alexander Peslyak - Yespower 1.0.1
-- Copyright (c) 2016-2018 The Zcash developers - DigiShieldZEC
-- Copyright (c) 2018-2019 The Sugarchain Yumekawa developers
+![Demo](https://media.giphy.com/media/fzFpGnugckAlW/giphy.gif)
+
+
 
 
 Minimum Requirement
@@ -143,3 +137,15 @@ Release process using GITIAN
 - Please use GITIAN release with checking PGP signature, or compile it yourself on your own machine.
 
 https://gist.github.com/cryptozeny/3501c77750541208b9dd1a9e9719fc53
+
+License
+-------
+Sugarchain Yumekawa is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.
+- Copyright (c) 2009-2010 Satoshi Nakamoto
+- Copyright (c) 2009-2018 The Bitcoin Core developers
+- Copyright (c) 2013-2019 Alexander Peslyak - Yespower 1.0.1
+- Copyright (c) 2016-2018 The Zcash developers - DigiShieldZEC
+- Copyright (c) 2018-2019 The Sugarchain Yumekawa developers
+
+### Special Thanks to Crypt?Zeny and SugarChain 
