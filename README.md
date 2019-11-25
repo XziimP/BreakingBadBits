@@ -1,4 +1,4 @@
-BreakingBadBits .. Why? Because it's funny and laughter is good.
+BreakingBadBits .. Why? Because it's funny and laughter is good. + BreakingBadBits will soon be backed by one 1ct.>+ SunStone Crystal per coin.
 ===================
 ![Demo](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif)
 
